@@ -6,7 +6,8 @@ To Implement a robust State Estimation algorithm that keeps computational effici
 People Involved : 
 
 Mentors:
-- [Arjun S Nair](https://github.com/arjun-593) 
+- [Arjun S Nair](https://github.com/arjun-593)
+- [Soham Pandit](https://github.com/Scav6411) 
 
 Members:
 <br>
