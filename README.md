@@ -12,4 +12,5 @@ Mentors:
 
 Members:
 <br>
--Reethika
+- [Varikuti Reethika Prasanna](https://github.com/Reethika1115)
+
