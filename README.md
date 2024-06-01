@@ -12,7 +12,7 @@ Mentors:
 
 Members:
 <br>
-
 - [Inturi Siva Rishitha](https://github.com/SivaRishitha)
+- [Varikuti Reethika Prasanna](https://github.com/Reethika1115)
 
 
