@@ -8,9 +8,11 @@ People Involved :
 Mentors:
 - [Arjun S Nair](https://github.com/arjun-593)
 - [Soham Pandit](https://github.com/Scav6411)
-- [Ampady B R](https://github.com/ampady06)
+- [Ampady B R](hgitttps://github.com/ampady06)
 
 Members:
 <br>
+
+- [Inturi Siva Rishitha](https://github.com/SivaRishitha)
 
 
