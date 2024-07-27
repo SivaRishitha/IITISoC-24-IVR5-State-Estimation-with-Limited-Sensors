@@ -33,6 +33,7 @@ The KALMAN FILTER includes a motion model that tells us how the state evolves ov
 EKF uses linearization to adapt the Kalman Filter to non linear systems.
 
  Linearization works by computing a local linear approximation to a non linear function about a chosen operating point. It relies on computing Jacobian matrices, which contain all the first order partial derivatives of a function.
+ ![image alt](https://github.com/SivaRishitha/IITISoC-24-IVR5-State-Estimation-with-Limited-Sensors/blob/96a6fe895f0cd75679560f4cfb5a50b5650e198a/ekf%202.jpg)
 
  
 ## Test 1: normal case
