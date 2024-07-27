@@ -37,7 +37,8 @@ EKF uses linearization to adapt the Kalman Filter to non linear systems.
  
 ## Test 1: normal case
 
-First of all, testing the performance of the estimation with normal sensor measurements. The model is able to provide accurate estimate within error range.
+First of all, testing the performance of the estimation with normal sensor measurements. The model is able to provide accurate estimate within error range.https://github.com/SivaRishitha/IITISoC-24-IVR5-State-
+![image alt](https://github.com/SivaRishitha/IITISoC-24-IVR5-State-Estimation-with-Limited-Sensors/blob/5cd97d9380ad0befe0803b328ed75abe632291ec/ESTIMATED(pt_1).png)
 ## Test 2: wrong extrinsic calibration
 
 In orfer to test out the reliability of the state estimation, an intentional error is applied on the rotational matrix when transforming the reference frame of the LIDAR, resulting unreliable LIDAR measurements. By increasing the variance of the LIDAR estimated error, the model adapts and still performs well.
