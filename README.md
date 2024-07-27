@@ -54,8 +54,9 @@ In orfer to test out the reliability of the state estimation, an intentional err
 A portion of the GNSS and LIDAR data is intentionally erased to test the performance of the estimation when only IMU is available. (like vehicle entering a tunnel)
 Although there exists a small shift in height estimation due to the wrong estimation of pitch angle, the model quickly adjusted state estimation of pitch angle and can perform as expected within a reasonable time and error range.
 ![image alt](https://github.com/SivaRishitha/IITISoC-24-IVR5-State-Estimation-with-Limited-Sensors/blob/3419387b3d50436ab31be8fc5665d7a4ef44d23d/ESTIMATED%20STATE(PT3).png)
+![image alt](https://github.com/SivaRishitha/IITISoC-24-IVR5-State-Estimation-with-Limited-Sensors/blob/0362b989e517cb38079c3a2bbd6096c266ad45c4/ERROR_PLOTS(PT3).png)
+
 
 ## Reference:
-
 
 https://github.com/Vinohith/Self_Driving_Car_specializations
