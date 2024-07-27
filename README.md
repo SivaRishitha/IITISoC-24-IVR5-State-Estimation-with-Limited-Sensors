@@ -43,6 +43,7 @@ First of all, testing the performance of the estimation with normal sensor measu
 ## Test 2: wrong extrinsic calibration
 
 In orfer to test out the reliability of the state estimation, an intentional error is applied on the rotational matrix when transforming the reference frame of the LIDAR, resulting unreliable LIDAR measurements. By increasing the variance of the LIDAR estimated error, the model adapts and still performs well.
+![image alt](https://github.com/SivaRishitha/IITISoC-24-IVR5-State-Estimation-with-Limited-Sensors/blob/f737b97cf7042755035bfbfa04a862a7e2057ceb/miscalibration%20estimated%20state.png)
 
 
 
